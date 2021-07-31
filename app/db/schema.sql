@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS gtfo_db;
+CREATE DATABASE gtfo_db;
+
